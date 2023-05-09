@@ -1,0 +1,26 @@
+
+.usn{
+    text-align: left;
+    /* margin: 10px; */
+}
+.ps{
+    text-align: left;
+
+    /* margin: 10px; */
+}
+h1{
+    padding: 20px;
+    padding-bottom: 50px;
+}
+.username-wrapper{
+    justify-content: baseline;
+}
+.switch{
+    text-decoration: underline;
+    border: none;
+    background-color: inherit;
+    cursor: pointer;
+}
+label{
+    font-weight: 600;
+}

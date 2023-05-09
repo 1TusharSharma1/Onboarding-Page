@@ -1,0 +1,10 @@
+input{
+    height: 20px;
+}
+.details{
+    margin-bottom: 15px;
+}
+labels{
+    text-align: left;
+    padding-right: 5px;
+}
